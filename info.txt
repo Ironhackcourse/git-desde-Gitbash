@@ -1,2 +1,3 @@
 Hola estoy usando los comando de git para el examen 
 saludos
+Realizando cambios desde la rama2 para el segundo ejercicio
